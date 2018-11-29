@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Get $hit Done</string>
+    <string name="main_header_today">Your\ntoday\'s\nplan</string>
+    <string name="main_header_other_day">Your\nplan\non day</string>
+    <string name="add_task_name">Name</string>
+
+    <string name="event_dialog_title">title</string>
+    <string name="event_dialog_location">location</string>
+    <string name="event_dialog_person">person</string>
+    <string name="event_dialog_start">Start</string>
+    <string name="event_dialog_end">End</string>
+    <string name="event_dialog_repeat">Repeat</string>
+
+    <string name="event_dialog_monday">M</string>
+    <string name="event_dialog_tuesday">T</string>
+    <string name="event_dialog_wednesday">W</string>
+    <string name="event_dialog_thursday">Th</string>
+    <string name="event_dialog_friday">F</string>
+    <string name="event_dialog_saturday">Sat</string>
+    <string name="event_dialog_sunday">Sun</string>
+
+    <string-array name="event_dialog_repeat_array">
+        <item>every week</item>
+        <item>every 2 weeks</item>
+        <item>every 3 weeks</item>
+        <item>every 4 weeks</item>
+    </string-array>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+    <string name="images_preference_title">Choose image</string>
+
+    <string-array name="images_preference_entries">
+        <item>Poop</item>
+        <item>Sunflower</item>
+        <item>Popcorn</item>
+        <item>Classic</item>
+    </string-array>
+
+    <string-array name="images_preference_values">
+        <item>ic_poop_</item>
+        <item>ic_sunflower_</item>
+        <item>ic_popcorn_</item>
+        <item>ic_classic_</item>
+    </string-array>
+
+</resources>

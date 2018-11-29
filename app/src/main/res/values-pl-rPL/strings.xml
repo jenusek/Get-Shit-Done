@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Get $hit Done</string>
+    <string name="main_header_today">Twój\nplan\nna dziś</string>
+    <string name="main_header_other_day">Twój\nplan na\ndzień</string>
+    <string name="add_task_name">Nazwa</string>
+    <string name="event_dialog_title">tytuł</string>
+    <string name="event_dialog_location">miejsce</string>
+    <string name="event_dialog_start">Początek</string>
+    <string name="event_dialog_monday">P</string>
+    <string name="event_dialog_tuesday">W</string>
+    <string name="event_dialog_wednesday">Ś</string>
+    <string name="event_dialog_thursday">Cz</string>
+    <string name="event_dialog_friday">Pt</string>
+    <string name="event_dialog_saturday">S</string>
+    <string name="event_dialog_sunday">N</string>
+    <string name="event_dialog_end">Koniec</string>
+</resources>
